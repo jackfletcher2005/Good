@@ -1,0 +1,347 @@
+{
+  "AntiAFK": {
+    "Use AI": true
+  },
+  "AntiKnockback": {
+    "Strength": 1.0
+  },
+  "AutoArmor": {
+    "Use enchantments": true,
+    "Swap while moving": false,
+    "Delay": 2.0
+  },
+  "AutoBuild": {
+    "Mode": 0,
+    "Use AI (experimental)": false,
+    "Template": 0
+  },
+  "AutoEat": {
+    "Ignore screen": true
+  },
+  "AutoFarm": {
+    "Range": 5.0
+  },
+  "AutoFish": {
+    "Valid range": 1.5,
+    "Debug draw": false
+  },
+  "AutoLeave": {
+    "Health": 4.0,
+    "Mode": 0
+  },
+  "AutoSoup": {
+    "Health": 6.5,
+    "Ignore screen": true
+  },
+  "AutoSplashPot": {
+    "Health": 6.0,
+    "Ignore screen": true
+  },
+  "AutoSteal": {
+    "Steal/Store buttons": true,
+    "Delay": 100.0
+  },
+  "AutoTool": {
+    "Use swords": false,
+    "Use hands": true,
+    "Repair mode": false
+  },
+  "Blink": {
+    "Limit": 0.0
+  },
+  "BonemealAura": {
+    "Range": 4.25,
+    "Mode": 1,
+    "Saplings": true,
+    "Crops": true,
+    "Stems": true,
+    "Cocoa": true,
+    "Other": false
+  },
+  "BuildRandom": {
+    "Mode": 1
+  },
+  "BunnyHop": {
+    "Jump if": "Sprinting"
+  },
+  "ChestESP": {
+    "Style": "Boxes only"
+  },
+  "ClickAura": {
+    "Use Killaura settings": true,
+    "Use Attack Cooldown as Speed": true,
+    "Speed": 12.0,
+    "Range": 4.25,
+    "FOV": 360.0,
+    "Hit through walls": false
+  },
+  "ClickGUI": {
+    "Opacity": 0.5,
+    "BG red": 64.0,
+    "BG green": 64.0,
+    "BG blue": 64.0,
+    "AC red": 16.0,
+    "AC green": 16.0,
+    "AC blue": 16.0
+  },
+  "Criticals": {
+    "Mode": 1
+  },
+  "Excavator": {
+    "Range": 6.0,
+    "Mode": 0
+  },
+  "ExtraElytra": {
+    "Instant fly": true,
+    "Easy fly": false,
+    "Stop flying in water": true
+  },
+  "FastBreak": {
+    "Mode": 1,
+    "Speed": 2.0
+  },
+  "FightBot": {
+    "Use Killaura settings": true,
+    "Use Attack Cooldown as Speed": true,
+    "Speed": 12.0,
+    "Range": 4.25,
+    "Distance": 3.0,
+    "Use AI (experimental)": false
+  },
+  "Flight": {
+    "Mode": 0,
+    "Speed": 1.0
+  },
+  "Follow": {
+    "Distance": 1.0,
+    "Use AI (experimental)": false
+  },
+  "Freecam": {
+    "Speed": 1.0,
+    "Tracer": false
+  },
+  "Fullbright": {
+    "Shader compatibility mode": false
+  },
+  "Glide": {
+    "Fall speed": 0.125,
+    "Move speed": 1.2,
+    "Min height": 0.0
+  },
+  "HighJump": {
+    "Height": 6.0
+  },
+  "InstantBunker": {
+    "Mode": 0
+  },
+  "ItemESP": {
+    "Show item names": true,
+    "Style": "Boxes only"
+  },
+  "Kaboom": {
+    "Power": 128.0
+  },
+  "Killaura": {
+    "Use Attack Cooldown as Speed": true,
+    "Speed": 12.0,
+    "Range": 4.25,
+    "Priority": "Angle",
+    "FOV": 360.0,
+    "Hit through walls": false,
+    "Filter flying": 0.0
+  },
+  "KillauraLegit": {
+    "Use Killaura settings": true,
+    "Use Attack Cooldown as Speed": true,
+    "Speed": 12.0,
+    "Range": 4.25,
+    "FOV": 360.0
+  },
+  "MileyCyrus": {
+    "Twerk speed": 5.0
+  },
+  "MobESP": {
+    "Style": "Boxes only"
+  },
+  "MobSpawnESP": {
+    "Draw distance": "9x9 chunks",
+    "Loading speed": 1.0
+  },
+  "MultiAura": {
+    "Use Killaura settings": false,
+    "Use Attack Cooldown as Speed": true,
+    "Speed": 12.0,
+    "Range": 4.25,
+    "FOV": 360.0,
+    "Hit through walls": false
+  },
+  "NoSlowdown": {
+    "Block water slowness": false,
+    "Block soul sand slowness": true,
+    "Block item slowness": true
+  },
+  "NoWeather": {
+    "Disable Rain": true,
+    "Change World Time": false,
+    "Time": 6000.0,
+    "Change Moon Phase": false,
+    "Moon Phase": 0.0
+  },
+  "Nuker": {
+    "Range": 6.0,
+    "Mode": 0,
+    "Mode 2": 0
+  },
+  "NukerLegit": {
+    "Use Nuker settings": true,
+    "Range": 4.25,
+    "Mode": 0
+  },
+  "PlayerESP": {
+    "Style": "Lines and boxes"
+  },
+  "Protect": {
+    "Use AI (experimental)": false
+  },
+  "Radar": {
+    "Radius": 100.0,
+    "Rotate with player": true,
+    "Filter players": false,
+    "Filter sleeping": false,
+    "Filter monsters": false,
+    "Filter animals": false,
+    "Filter invisible": false
+  },
+  "Regen": {
+    "Speed": 100.0,
+    "Pause in mid-air": true
+  },
+  "Sneak": {
+    "Mode": 0
+  },
+  "SpeedNuker": {
+    "Range": 5.0,
+    "Mode": "Normal"
+  },
+  "Step": {
+    "Mode": 1,
+    "Height": 1.0
+  },
+  "Timer": {
+    "Speed": 2.0
+  },
+  "TP-Aura": {
+    "Use Killaura settings": true,
+    "Use Attack Cooldown as Speed": true,
+    "Speed": 12.0,
+    "Range": 4.25,
+    "Hit through walls": false
+  },
+  "TriggerBot": {
+    "Use Killaura settings": true,
+    "Use Attack Cooldown as Speed": true,
+    "Speed": 12.0,
+    "Range": 4.25
+  },
+  "Tunneller": {
+    "Tunnel size": "3x3",
+    "Limit": 0.0,
+    "Place torches": false
+  },
+  "X-Ray": {
+    "Blocks": [
+      "minecraft:anvil",
+      "minecraft:beacon",
+      "minecraft:bone_block",
+      "minecraft:bookshelf",
+      "minecraft:brewing_stand",
+      "minecraft:chain_command_block",
+      "minecraft:chest",
+      "minecraft:clay",
+      "minecraft:coal_block",
+      "minecraft:coal_ore",
+      "minecraft:command_block",
+      "minecraft:crafting_table",
+      "minecraft:diamond_block",
+      "minecraft:diamond_ore",
+      "minecraft:dispenser",
+      "minecraft:dropper",
+      "minecraft:emerald_block",
+      "minecraft:emerald_ore",
+      "minecraft:enchanting_table",
+      "minecraft:end_portal",
+      "minecraft:end_portal_frame",
+      "minecraft:ender_chest",
+      "minecraft:flowing_lava",
+      "minecraft:flowing_water",
+      "minecraft:furnace",
+      "minecraft:glowstone",
+      "minecraft:gold_block",
+      "minecraft:gold_ore",
+      "minecraft:hopper",
+      "minecraft:iron_block",
+      "minecraft:iron_ore",
+      "minecraft:ladder",
+      "minecraft:lapis_block",
+      "minecraft:lapis_ore",
+      "minecraft:lava",
+      "minecraft:lit_furnace",
+      "minecraft:lit_redstone_ore",
+      "minecraft:mob_spawner",
+      "minecraft:mossy_cobblestone",
+      "minecraft:portal",
+      "minecraft:quartz_ore",
+      "minecraft:redstone_block",
+      "minecraft:redstone_ore",
+      "minecraft:repeating_command_block",
+      "minecraft:tnt",
+      "minecraft:torch",
+      "minecraft:trapped_chest",
+      "minecraft:water"
+    ]
+  },
+  ".path": {
+    "Debug mode": false,
+    "Depth test": false
+  },
+  "ModList": {
+    "Mode": 0,
+    "Position": 0,
+    "Animations": true
+  },
+  "TabGui": {
+    "Status": 1
+  },
+  "Target": {
+    "Players": true,
+    "Animals": true,
+    "Monsters": true,
+    "Golems": true,
+    "Sleeping players": false,
+    "Invisible players": false,
+    "Invisible mobs": false,
+    "Teams": false,
+    "Team Colors": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "YesCheat+": {
+    "Profile": 0,
+    "Mode Indicator": true
+  }
+}

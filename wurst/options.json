@@ -1,0 +1,33 @@
+{
+  "autoReconnect": false,
+  "cleanupFailed": true,
+  "cleanupOutdated": true,
+  "cleanupRename": true,
+  "cleanupUnknown": true,
+  "cleanupGriefMe": false,
+  "forceOPDontWait": false,
+  "middleClickFriends": true,
+  "spamFont": false,
+  "autoUpdate": false,
+  "forceOPDelay": 1000,
+  "ghostHandID": 54,
+  "searchID": 116,
+  "serverFinderThreads": 128,
+  "spamDelay": 1000,
+  "throwAmount": 16,
+  "mc112x_compatibility": 2,
+  "forceOPList": "C:\\Users\\jackf\\AppData\\Roaming\\.minecraft\\wurst",
+  "lastLaunchedVersion": "6.25",
+  "google_analytics": {
+    "enabled": true,
+    "id": 421214949,
+    "first_launch": 1555606208,
+    "last_launch": 1555606225,
+    "launches": 2
+  },
+  "zoom": {
+    "keybind": 43,
+    "level": 2.8,
+    "scroll": true
+  }
+}
